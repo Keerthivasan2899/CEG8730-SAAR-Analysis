@@ -1,0 +1,8 @@
+File name: SAAR_elevation.csv
+File type: .csv (Comma Separated Values)
+Language: English
+Columns: Name, elevation_m, SAAR_mm, E, N
+Number of rows: 25
+File description:
+The file contains data for 24 rain gauges in the River Eden catchment. For each rain gauge the name is given as a 3-letter code. The elevation in meters (elevation_m) is given along with the SAAR rainfall measurement in mm (SAAR_mm). The location of the each rain gauge is given in British National Grid (27700) via the Easting and Northing (E and N columns).
+
